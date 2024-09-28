@@ -1,6 +1,11 @@
 h1 {
     color: blue;
     font-family: "Helvetica", "Verdana", sans-serif;
+    padding: 12px;
+    border: 2px solid rgba(206, 106, 2, 0.786);
+    margin-bottom: 10px;
+    width: 250px;
+    text-align: center;
 }
 
 #recipe-links {
@@ -11,3 +16,4 @@ p.home-link {
     background-color: rgba(206, 76, 102, 0.486);
     font-size: 24px;
 }
+
