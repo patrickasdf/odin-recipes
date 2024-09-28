@@ -6,3 +6,8 @@ h1 {
 #recipe-links {
     font-size: 32px;
 }
+
+p.home-link {
+    background-color: rgba(206, 76, 102, 0.486);
+    font-size: 24px;
+}
